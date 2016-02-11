@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.google.ortools">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Stažené/or-tools.Linux64/lib/com.google.ortools.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
